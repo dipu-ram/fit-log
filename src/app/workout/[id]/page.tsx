@@ -91,7 +91,7 @@ export default function WorkoutDetails({
     
         <div className="grid overflow-hidden rounded-2xl border border-zinc-800 bg-zinc-950 lg:grid-cols-2">
       
-          <div className="relative min-h-[320px] bg-zinc-900 lg:min-h-[600px]">
+          <div className="relative min-h-320px bg-zinc-900 lg:min-h-600px">
             <Image
               src={workout.image}
               alt={workout.name}

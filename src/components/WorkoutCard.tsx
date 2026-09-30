@@ -13,7 +13,7 @@ export default function WorkoutCard({
       className="group block overflow-hidden rounded-xl border border-zinc-800 bg-zinc-950 transition duration-300 hover:-translate-y-1 hover:border-lime-400/50"
     >
 
-      <div className="relative aspect-[4/3] overflow-hidden bg-zinc-900">
+      <div className="relative aspect-4/3 overflow-hidden bg-zinc-900">
          <Image
             src={workout.image}
             alt={workout.name}
