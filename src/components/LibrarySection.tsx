@@ -38,7 +38,7 @@ export default function LibrarySection() {
          
 
           <h2 className="mt-3 text-3xl font-black tracking-tight sm:text-4xl">
-            The Library
+            THE LIBRARY
           </h2>
 
           <p className="mt-3 text-base leading-7 text-zinc-400 sm:text-lg">

@@ -220,7 +220,7 @@ export default function MyPlanPage() {
                     className="overflow-hidden rounded-xl border border-zinc-800 bg-zinc-950">
                   
 
-                    {/* Image */}
+        
                     <Link
                       href={`/workout/${workout.id}`}
                     >

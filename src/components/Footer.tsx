@@ -16,7 +16,7 @@ export default function Footer() {
           />
 
           <span className="text-xl font-black tracking-wider">
-            FITLOG
+            FIT<span className="text-lime-400">LOG</span>
           </span>
         </div>
 

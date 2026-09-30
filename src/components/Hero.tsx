@@ -33,7 +33,7 @@ export default function Hero() {
         </div>
 
         
-        <div className="relative overflow-hidden rounded-2xl border border-zinc-800 bg-zinc-950">
+        <div className="flex items-center justify-center">
           <div className="flex aspect-video items-center justify-center p-4 sm:p-8">
             <Image
               src="/assets/banner.png"
