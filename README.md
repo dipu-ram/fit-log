@@ -162,7 +162,7 @@ FitLog can be deployed easily with **Vercel**.
 
 ### Live Demo
 
-🔗 **https://your-fitlog.vercel.app**
+🔗 **(https://fit-log-sigma-pied.vercel.app/)**
 
 > Replace this with your actual Vercel URL.
 
